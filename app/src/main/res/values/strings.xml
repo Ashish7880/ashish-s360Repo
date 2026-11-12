@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voice Mute Controller</string>
+    <string name="service_description">Detects the wired headset button and attempts to activate a visible mute/unmute control in the foreground app. It does not record audio.</string>
+</resources>
